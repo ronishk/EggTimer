@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "279af6285a050e7576bf0341112127ed"
-build_time: [1624067616, 649626000]
+build_time: [1624067700, 636495000]
 inputs:
-  "/Users/Ronish/Documents/iOS Udemy/EggTimer-iOS13/EggTimer/ViewController.swift": [1624067616, 362652326]
+  "/Users/Ronish/Documents/iOS Udemy/EggTimer-iOS13/EggTimer/ViewController.swift": [1624067700, 502004171]
   "/Users/Ronish/Documents/iOS Udemy/EggTimer-iOS13/EggTimer/AppDelegate.swift": [1623945364, 905804274]
   "/Users/Ronish/Documents/iOS Udemy/EggTimer-iOS13/EggTimer/SceneDelegate.swift": [1623945364, 941537567]
